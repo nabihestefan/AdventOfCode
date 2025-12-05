@@ -25,7 +25,6 @@ def cleanRanges(fresh):
 
 fresh = cleanRanges(fresh)
 
-
 def p1(fresh,available):
     total = 0
     for i in available:
